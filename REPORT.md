@@ -5,7 +5,7 @@
 #### На тестирование затрачено: 4 часа
 
 #### В результате тестирования выявлены следующие дефекты:
-- [Отрицательный баланс](https://github.com/Dmitriy3292/javaDZ1/issues/1#issue-1035256047)
+- [Отрицательный баланс при пополнении счета в расчете суммы с помощью idea](https://github.com/Dmitriy3292/javaDZ1/issues/1#issue-1035256047)
 
  В качестве тестовых данных использовались данные [из задания](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
